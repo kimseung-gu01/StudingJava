@@ -42,6 +42,6 @@ public class FolderPhone extends Phone{
         super.launchCamera(cameraMode);
     }
     public void folder() {
-        System.out.println("핸드폰을 접어 자동으로 절전모드로 전환합니다.");
+        System.out.println("핸드폰을 접어 자동으로 절전모드로 전환합니다. ");
     }
 }

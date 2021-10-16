@@ -32,7 +32,7 @@ public class SmartPhone extends Phone{
 
     @Override
     void update() {
-        System.out.println("펌웨어 업데이트가 필요합니다. 새벽에 업데이트를 진행합니다.");
+        System.out.println("펌웨어 업데이트가 필요합니다. 새벽에 업데이트를 진행합니다. ");
     }
     //--------------
 

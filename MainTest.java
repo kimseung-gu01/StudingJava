@@ -29,7 +29,7 @@ public class MainTest {
                 fo1.notEnoughBattery();
                 fo1.folder(); break;
             default:
-                System.out.println("잘못된 번호입니다.");
+                System.out.println("잘못된 번호입니다. ");
         }
     }
 }
